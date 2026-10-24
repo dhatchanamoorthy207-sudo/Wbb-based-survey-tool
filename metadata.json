@@ -1,0 +1,7 @@
+{
+  "name": "PollPulse - Web-Based Survey Tool",
+  "description": "A modern, full-stack survey tool to create custom questionnaires, collect user feedback, analyze responses with visual charts, and export results.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
